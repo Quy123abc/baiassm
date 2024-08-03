@@ -1,0 +1,12 @@
+E:\CS5\Code\Bai1\Calculators\bin\Debug\net8.0\Calculators.deps.json
+E:\CS5\Code\Bai1\Calculators\bin\Debug\net8.0\Calculators.dll
+E:\CS5\Code\Bai1\Calculators\bin\Debug\net8.0\Calculators.pdb
+E:\CS5\Code\Bai1\Calculators\obj\Debug\net8.0\Calculators.csproj.AssemblyReference.cache
+E:\CS5\Code\Bai1\Calculators\obj\Debug\net8.0\Calculators.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS5\Code\Bai1\Calculators\obj\Debug\net8.0\Calculators.AssemblyInfoInputs.cache
+E:\CS5\Code\Bai1\Calculators\obj\Debug\net8.0\Calculators.AssemblyInfo.cs
+E:\CS5\Code\Bai1\Calculators\obj\Debug\net8.0\Calculators.csproj.CoreCompileInputs.cache
+E:\CS5\Code\Bai1\Calculators\obj\Debug\net8.0\Calculators.dll
+E:\CS5\Code\Bai1\Calculators\obj\Debug\net8.0\refint\Calculators.dll
+E:\CS5\Code\Bai1\Calculators\obj\Debug\net8.0\Calculators.pdb
+E:\CS5\Code\Bai1\Calculators\obj\Debug\net8.0\ref\Calculators.dll

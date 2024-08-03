@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asm2 (1)\\Asm2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBAFD66-BF0C-4B52-A9CA-AAC1D7C21BF2}|Bai1\\Bai1.csproj|d:\\asm2 (1)\\asm2\\bai1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBAFD66-BF0C-4B52-A9CA-AAC1D7C21BF2}|Bai1\\Bai1.csproj|solutionrelative:bai1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF4E245-5FAD-49F4-8483-2A77ED25BE9A}|Bai4\\Bai4.csproj|d:\\asm2 (1)\\asm2\\bai4\\baihat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF4E245-5FAD-49F4-8483-2A77ED25BE9A}|Bai4\\Bai4.csproj|solutionrelative:bai4\\baihat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3B6ADA-F364-4C58-BC62-CB30640637CE}|TestBaiHat\\TestBaiHat.csproj|d:\\asm2 (1)\\asm2\\testbaihat\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3B6ADA-F364-4C58-BC62-CB30640637CE}|TestBaiHat\\TestBaiHat.csproj|solutionrelative:testbaihat\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF4E245-5FAD-49F4-8483-2A77ED25BE9A}|Bai4\\Bai4.csproj|d:\\asm2 (1)\\asm2\\bai4\\baihatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF4E245-5FAD-49F4-8483-2A77ED25BE9A}|Bai4\\Bai4.csproj|solutionrelative:bai4\\baihatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB33870-95EF-46E0-94A7-D2A6B4984CC2}|TestBai3\\TestBai3.csproj|d:\\asm2 (1)\\asm2\\testbai3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB33870-95EF-46E0-94A7-D2A6B4984CC2}|TestBai3\\TestBai3.csproj|solutionrelative:testbai3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076BF7A3-1A87-41B1-AF1A-CDFDDA16F408}|Bai3\\Bai3.csproj|d:\\asm2 (1)\\asm2\\bai3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076BF7A3-1A87-41B1-AF1A-CDFDDA16F408}|Bai3\\Bai3.csproj|solutionrelative:bai3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249ECD8-2796-41BB-8046-0C21102056CC}|TestCalculator\\TestCalculator.csproj|d:\\asm2 (1)\\asm2\\testcalculator\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1249ECD8-2796-41BB-8046-0C21102056CC}|TestCalculator\\TestCalculator.csproj|solutionrelative:testcalculator\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF29661D-057A-46F9-A50C-989CC20AECB1}|Calculators\\Calculators.csproj|d:\\asm2 (1)\\asm2\\calculators\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF29661D-057A-46F9-A50C-989CC20AECB1}|Calculators\\Calculators.csproj|solutionrelative:calculators\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBAFD66-BF0C-4B52-A9CA-AAC1D7C21BF2}|Bai1\\Bai1.csproj|d:\\asm2 (1)\\asm2\\bai1\\bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FBAFD66-BF0C-4B52-A9CA-AAC1D7C21BF2}|Bai1\\Bai1.csproj|solutionrelative:bai1\\bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4E57CD-E8C2-4CEB-8DD2-E1B5D674EBE0}|TestBai1\\TestBai1.csproj|d:\\asm2 (1)\\asm2\\testbai1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4E57CD-E8C2-4CEB-8DD2-E1B5D674EBE0}|TestBai1\\TestBai1.csproj|solutionrelative:testbai1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\TestBaiHat\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestBaiHat\\UnitTest1.cs",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\TestBaiHat\\UnitTest1.cs",
+              "RelativeToolTip": "TestBaiHat\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:52:45.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaiHatService.cs",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\Bai4\\BaiHatService.cs",
+              "RelativeDocumentMoniker": "Bai4\\BaiHatService.cs",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\Bai4\\BaiHatService.cs",
+              "RelativeToolTip": "Bai4\\BaiHatService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:51:53.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiHat.cs",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\Bai4\\BaiHat.cs",
+              "RelativeDocumentMoniker": "Bai4\\BaiHat.cs",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\Bai4\\BaiHat.cs",
+              "RelativeToolTip": "Bai4\\BaiHat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:50:28.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\TestBai3\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestBai3\\UnitTest1.cs",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\TestBai3\\UnitTest1.cs",
+              "RelativeToolTip": "TestBai3\\UnitTest1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:46:04.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\Bai3\\Class1.cs",
+              "RelativeDocumentMoniker": "Bai3\\Class1.cs",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\Bai3\\Class1.cs",
+              "RelativeToolTip": "Bai3\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:44:56.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\TestCalculator\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestCalculator\\UnitTest1.cs",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\TestCalculator\\UnitTest1.cs",
+              "RelativeToolTip": "TestCalculator\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:37:51.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bai1.csproj",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\Bai1\\Bai1.csproj",
+              "RelativeDocumentMoniker": "Bai1\\Bai1.csproj",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\Bai1\\Bai1.csproj",
+              "RelativeToolTip": "Bai1\\Bai1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T07:32:21.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\Calculators\\Class1.cs",
+              "RelativeDocumentMoniker": "Calculators\\Class1.cs",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\Calculators\\Class1.cs",
+              "RelativeToolTip": "Calculators\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:29:14.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\TestBai1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestBai1\\UnitTest1.cs",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\TestBai1\\UnitTest1.cs",
+              "RelativeToolTip": "TestBai1\\UnitTest1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:25:22.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Asm2 (1)\\Asm2\\Bai1\\Class1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Class1.cs",
+              "ToolTip": "D:\\Asm2 (1)\\Asm2\\Bai1\\Class1.cs",
+              "RelativeToolTip": "Bai1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:21:09.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

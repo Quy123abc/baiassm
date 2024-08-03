@@ -1,0 +1,24 @@
+E:\CS5\Code\Bai1\Bai4\bin\Debug\net8.0\Bai4.deps.json
+E:\CS5\Code\Bai1\Bai4\bin\Debug\net8.0\Bai4.dll
+E:\CS5\Code\Bai1\Bai4\bin\Debug\net8.0\Bai4.pdb
+E:\CS5\Code\Bai1\Bai4\obj\Debug\net8.0\Bai4.csproj.AssemblyReference.cache
+E:\CS5\Code\Bai1\Bai4\obj\Debug\net8.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS5\Code\Bai1\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfoInputs.cache
+E:\CS5\Code\Bai1\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfo.cs
+E:\CS5\Code\Bai1\Bai4\obj\Debug\net8.0\Bai4.csproj.CoreCompileInputs.cache
+E:\CS5\Code\Bai1\Bai4\obj\Debug\net8.0\Bai4.dll
+E:\CS5\Code\Bai1\Bai4\obj\Debug\net8.0\refint\Bai4.dll
+E:\CS5\Code\Bai1\Bai4\obj\Debug\net8.0\Bai4.pdb
+E:\CS5\Code\Bai1\Bai4\obj\Debug\net8.0\ref\Bai4.dll
+D:\Asm2 (1)\Asm2\Bai4\bin\Debug\net8.0\Bai4.deps.json
+D:\Asm2 (1)\Asm2\Bai4\bin\Debug\net8.0\Bai4.dll
+D:\Asm2 (1)\Asm2\Bai4\bin\Debug\net8.0\Bai4.pdb
+D:\Asm2 (1)\Asm2\Bai4\obj\Debug\net8.0\Bai4.csproj.AssemblyReference.cache
+D:\Asm2 (1)\Asm2\Bai4\obj\Debug\net8.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asm2 (1)\Asm2\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfoInputs.cache
+D:\Asm2 (1)\Asm2\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfo.cs
+D:\Asm2 (1)\Asm2\Bai4\obj\Debug\net8.0\Bai4.csproj.CoreCompileInputs.cache
+D:\Asm2 (1)\Asm2\Bai4\obj\Debug\net8.0\Bai4.dll
+D:\Asm2 (1)\Asm2\Bai4\obj\Debug\net8.0\refint\Bai4.dll
+D:\Asm2 (1)\Asm2\Bai4\obj\Debug\net8.0\Bai4.pdb
+D:\Asm2 (1)\Asm2\Bai4\obj\Debug\net8.0\ref\Bai4.dll
